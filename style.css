@@ -6,6 +6,10 @@ body{
     margin-right: 5%;
 
 }
+.menu {
+    background: linear-gradient(90deg, rgba(0,249,244,1) 0%, rgba(125,255,114,1) 50%, rgba(255,255,97,1) 100%);
+    text-align:center;
+}
 .section1{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;

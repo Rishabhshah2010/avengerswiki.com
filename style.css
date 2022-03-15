@@ -7,7 +7,7 @@ body{
 
 }
 .menu {
-    background: linear-gradient(90deg, rgba(0,249,244,1) 0%, rgba(125,255,114,1) 50%, rgba(255,255,97,1) 100%);
+    background-color: red;
     text-align:center;
 }
 .section1{

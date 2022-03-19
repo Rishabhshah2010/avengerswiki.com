@@ -7,7 +7,7 @@ body{
 
 }
 .menu {
-    background-color: rgb(169, 169, 169);
+    background-color: linen;
     text-align:center;
 }
 .section1{
@@ -21,4 +21,9 @@ body{
 .section3{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+display: block;
+margin-left: auto;
+margin-right: auto;
 }

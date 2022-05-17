@@ -32,11 +32,24 @@ margin-right: auto;
 margin-left: auto;
 margin-right: auto;
 }
+.irondudeatemi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.thorythorythor{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
 .p1{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
 }
 .p2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p3{
     text-align: center;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
